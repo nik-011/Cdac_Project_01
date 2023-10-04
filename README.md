@@ -11,6 +11,6 @@ Cdac Group Project
 
 •	Utilized Recommender System Machine Learning Algorithm for recommending the schools having correlation greater than 0.5 with the expectations of the User.
 
-•	Created a tableau dashboard.
+•	Last but not the least We've created a Dashboard using Tableau.
 
 
